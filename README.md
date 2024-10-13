@@ -1,0 +1,2 @@
+# Fajar
+Nexus mining
